@@ -1,0 +1,13 @@
+.miniPaneFrameGrayBg_M1 {
+	margin:0; padding:0; font:14px Tahoma, Geneva, Arial, Verdana, Helvetica, sans-serif; color:#646161; font-weight: bold; text-align:left;
+}
+
+.miniPaneFrameGrayBg_hsep {
+	background-color: #c0c0c0;
+	width: 1px;
+}
+
+.miniPaneFrameGrayBg_vsep {
+	height: 1px; 
+	background-color: #c0c0c0;
+}

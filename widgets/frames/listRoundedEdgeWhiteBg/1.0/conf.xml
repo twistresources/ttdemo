@@ -1,0 +1,22 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Rounded Edge with blue background</description>
+  <rows>3</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>4</cropWidth>
+  <cropHeight>6</cropHeight>
+  <coordinates>V2,2,10,10/105,2,5,10/206,2,10,10:V2,12,10,10/105,12,5,10/206,12,10,10:F2,22,10,15/105,22,5,15/206,22,10,15:V2,38,10,10/105,38,5,10/206,38,10,10:V2,143,10,9/105,143,5,9/206,143,10,9</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+  <cell>
+    <index>row2</index>
+  </cell>
+  <cell>
+    <index>row3</index>
+  </cell>
+</widget>

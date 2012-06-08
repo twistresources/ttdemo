@@ -1,0 +1,12 @@
+.listRoundedEdgeWhiteBg_M1 {
+	margin:0; padding:0; font:16px Tahoma, Geneva, Arial, Verdana, Helvetica, sans-serif; color:#666666; text-align:left;
+}
+.listRoundedEdgeWhiteBg_hsep {
+	background-color: #ffffff;
+	width: 1px;
+}
+
+.listRoundedEdgeWhiteBg_vsep {
+	height: 1px; 
+	background-color: #ffffff;
+}

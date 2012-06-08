@@ -1,0 +1,16 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Business Best Seller Frame</description>
+  <rows>1</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>F7,6,11,9/200,6,5,9/349,6,11,9:V7,15,11,10/200,15,5,10/349,15,11,10:F7,25,11,9/200,25,5,9/349,25,11,9</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+</widget>

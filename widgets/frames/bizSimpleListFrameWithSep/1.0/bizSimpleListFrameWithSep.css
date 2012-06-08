@@ -1,0 +1,13 @@
+.bizSimpleListFrameWithSep_M1 {
+	margin:0; padding:0; font:14px Tahoma, Geneva, Arial, Verdana, Helvetica, sans-serif; color:#333333; text-align:left; font-weight:bold;
+}
+
+.bizSimpleListFrameWithSep_hsep {
+	background-color: #c0c0c0;
+	width: 1px;
+}
+
+.bizSimpleListFrameWithSep_vsep {
+	height: 1px; 
+	background-color: #c0c0c0;
+}

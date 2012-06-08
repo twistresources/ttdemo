@@ -1,0 +1,13 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Toolbar Popup Frame</description>
+  <rows>1</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>V0,2,17,5/70,2,2,5/122,2,17,5:V0,10,17,2/70,10,2,2/122,10,17,2:V0,188,17,18/70,188,2,18/122,188,17,18</coordinates>
+</widget>

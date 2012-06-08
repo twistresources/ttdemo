@@ -1,0 +1,22 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Order Now Home Page Info Frame</description>
+  <rows>3</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>V3,3,1,11/4,3,210,11/214,3,1,11:V3,14,1,17/4,14,210,17/214,14,1,17:F3,29,1,6/4,29,210,6/214,29,1,6:V3,100,1,4/4,100,210,4/214,100,1,4:V3,138,1,15/4,138,210,15/214,138,1,15</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+  <cell>
+    <index>row2</index>
+  </cell>
+  <cell>
+    <index>row3</index>
+  </cell>
+</widget>

@@ -1,0 +1,22 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Gray Border Frame</description>
+  <rows>3</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>V0,0,1,1/24,0,10,1/52,0,1,1:V0,1,1,1/24,1,10,1/52,1,1,1:F0,2,1,1/24,2,10,1/52,2,1,1:V0,3,1,10/24,3,10,10/52,3,1,10:F0,21,1,1/24,21,10,1/52,21,1,1</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+  <cell>
+    <index>row2</index>
+  </cell>
+  <cell>
+    <index>row3</index>
+  </cell>
+</widget>

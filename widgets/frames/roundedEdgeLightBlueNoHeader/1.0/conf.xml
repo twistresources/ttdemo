@@ -1,0 +1,16 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Rounded Edge Light Blue without header</description>
+  <rows>1</rows>
+  <currentCell>NW</currentCell>
+  <suffix>jpg</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>V0,0,20,20/240,0,1,20/374,0,20,20:V0,30,20,1/240,30,1,1/374,30,20,1:V0,499,20,20/240,499,1,20/374,499,20,20</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+</widget>

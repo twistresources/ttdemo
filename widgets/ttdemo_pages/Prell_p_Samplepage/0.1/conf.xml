@@ -1,0 +1,32 @@
+<widget>
+  <cloneToLibrary>pages</cloneToLibrary>
+
+  <widgetClass>tooltwist.wbd.PageWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <linkedWidget>toolbox.page</linkedWidget>
+  <cell>
+    <widget>
+      <widgetClass>tooltwist.wbd.GridWidget</widgetClass>
+      <idWithinRootWidget>1</idWithinRootWidget>
+      <linkedWidget>toolbox.grid</linkedWidget>
+      <cols>0</cols>
+      <rows>2</rows>
+      <width>950</width>
+      <height>650</height>
+      <align>center</align>
+      <valign>top</valign>
+      <cellDivs>none</cellDivs>
+      <cell>
+        <index>0,0</index>
+        <height>20</height>
+        <wrap>wrap</wrap>
+        <_initialized>true</_initialized>
+      </cell>
+      <cell>
+        <index>0,1</index>
+        <wrap>wrap</wrap>
+        <_initialized>true</_initialized>
+      </cell>
+    </widget>
+  </cell>
+</widget>

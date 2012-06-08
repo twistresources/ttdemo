@@ -1,0 +1,16 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>List Help Popup Frame</description>
+  <rows>1</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>F0,0,15,25/16,0,123,25/138,0,14,25:V0,26,15,15/16,26,123,15/138,26,14,15:F0,94,15,15/16,94,123,15/138,94,14,15</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+</widget>

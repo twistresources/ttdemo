@@ -1,0 +1,10 @@
+<project>
+        <includeProject>tooltwist</includeProject>
+        <includeProject>ttStd</includeProject>
+        <includeProject>ttWbd</includeProject>
+        <includeProject>ttdemo</includeProject>
+		<properties>
+ 			<gitUserName>philcal</gitUserName>
+ 			<gitPassword>zazazaza</gitPassword>
+ 		</properties>
+</project>

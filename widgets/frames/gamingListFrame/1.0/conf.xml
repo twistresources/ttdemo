@@ -1,0 +1,22 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Gaming Page Side List Frame</description>
+  <rows>3</rows>
+  <currentCell>NW</currentCell>
+  <suffix>jpg</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>F2,2,8,9/108,2,4,9/207,2,8,9:V2,11,8,30/108,11,4,30/207,40,8,30:F2,41,8,10/108,41,4,10/207,41,8,10:V2,52,8,4/108,52,4,4/207,52,8,4:F2,88,8,8/108,88,4,8/207,88,8,8</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+  <cell>
+    <index>row2</index>
+  </cell>
+  <cell>
+    <index>row3</index>
+  </cell>
+</widget>

@@ -1,0 +1,16 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>SignIn Header Frame</description>
+  <rows>1</rows>
+  <currentCell>NW</currentCell>
+  <suffix>jpg</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>V4,2,10,7/100,2,10,7/286,2,10,7:V4,9,10,5/100,9,10,5/286,9,10,5:V4,19,10,7/100,19,10,7/286,19,10,7</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+</widget>

@@ -1,0 +1,22 @@
+<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <description>Mini Pane Orange Background Frame</description>
+  <rows>3</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>V9,9,11,11/100,9,2,11/212,9,11,11:V9,20,11,25/100,20,2,25/212,20,11,25:F9,41,11,2/100,41,2,2/212,41,11,2:V9,42,11,10/100,42,2,10/212,42,11,10:V9,52,11,11/100,52,2,11/212,52,11,11</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+  <cell>
+    <index>row2</index>
+  </cell>
+  <cell>
+    <index>row3</index>
+  </cell>
+</widget>
