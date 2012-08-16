@@ -1,0 +1,12 @@
+/**
+ *  Page CSS - always gets included in this page.
+ */
+
+/* body tag, only in the ToolTwist designer */
+.body-designer {
+  background-color: red;
+}
+
+.wbdDesignerBody {
+  background-color: zred;
+}
