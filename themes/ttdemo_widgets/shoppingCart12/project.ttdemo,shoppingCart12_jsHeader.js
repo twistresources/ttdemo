@@ -1,5 +1,6 @@
 var ShoppingCart = function() {
   
+  
 	return {
 		myVariable: null,
 
