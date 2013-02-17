@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1361128990201</timeChanged>
+  <status>pending</status>
+  <comment>Testing promote of pending status</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.149</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1361037464649</timeChanged>
+  <status>edit</status>
+  <comment>Moved from ttdemo.cutouts.junk1 to ttdemo.cutouts.junk5</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.103</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1361016464279</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from ttdemo.cutouts.junk51 to ttdemo.cutouts.junk1</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.103</ipAddress>
+</statusHistory>
+</widgetStatus>
