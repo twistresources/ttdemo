@@ -1,0 +1,93 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1361016142170</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.cutouts.junk2 to ttdemo.cutouts.junk52</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.103</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1361013884250</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.cutouts.junk43 to ttdemo.cutouts.junk2</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.103</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1361013161888</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.cutouts.junk2 to ttdemo.cutouts.junk43</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.103</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1361012969403</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.cutouts.junk10 to ttdemo.cutouts.junk2</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.103</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360947338181</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.cutouts.junk9 to ttdemo.cutouts.junk10</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360946998258</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.cutouts.junk2</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360945589748</timeChanged>
+  <status>approved</status>
+  <comment>bb</comment>
+  <userCode>null</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360945585105</timeChanged>
+  <status>pending</status>
+  <comment>bb</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360945566403</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360945553835</timeChanged>
+  <status>approved</status>
+  <comment>a</comment>
+  <userCode>null</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360945524803</timeChanged>
+  <status>pending</status>
+  <comment>a</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360934260233</timeChanged>
+  <status>edit</status>
+  <comment>Moved from ttdemo.cutouts.junk1 to ttdemo.cutouts.junk2</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1360932721457</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from ttdemo.cutouts.ACME1_about_body_img3 to ttdemo.cutouts.junk1</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.2.102</ipAddress>
+</statusHistory>
+</widgetStatus>
