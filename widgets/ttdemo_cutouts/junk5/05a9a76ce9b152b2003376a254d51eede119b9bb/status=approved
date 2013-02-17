@@ -1,5 +1,12 @@
 ﻿<widgetStatus>
 <statusHistory>
+  <timeChanged>1361129203816</timeChanged>
+  <status>approved</status>
+  <comment>Testing promoting approved status</comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.1.149</ipAddress>
+</statusHistory>
+<statusHistory>
   <timeChanged>1361128990201</timeChanged>
   <status>pending</status>
   <comment>Testing promote of pending status</comment>
