@@ -1,0 +1,30 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.CropImageWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <parentVersion>dc95c28d2de7ad3ae4b51c6161d11e1f5ca7415c</parentVersion>
+  <updateTime>1361134513603</updateTime>
+  <shortDesc>c</shortDesc>
+  <updatedBy>adm</updatedBy>
+  <ipAddress>10.0.1.149</ipAddress>
+  <description></description>
+  <jumpTo></jumpTo>
+  <suffix>png</suffix>
+  <crop>N</crop>
+  <shrink>Y</shrink>
+  <doCrop>Y</doCrop>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>14</cropWidth>
+  <cropHeight>222</cropHeight>
+  <width></width>
+  <height></height>
+  <tint>none</tint>
+  <annotation></annotation>
+  <resizeMode></resizeMode>
+  <resizeWidth></resizeWidth>
+  <resizeHeight></resizeHeight>
+  <resizePercentage></resizePercentage>
+  <cornerWidth></cornerWidth>
+  <cornerHeight></cornerHeight>
+  <whichCorner></whichCorner>
+</widget>
