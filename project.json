@@ -1,0 +1,11 @@
+{
+        "tooltwist": "com.tooltwist:tooltwist:8.2-SNAPSHOT",
+	"ttWbd": "com.tooltwist:ttWbd:8.2-SNAPSHOT",
+        "ttStd": {
+			"type": "extension",
+			"location": "repo",
+			"group": "com.tooltwist",
+			"name": "ttStd",
+			"version": "8.2-SNAPSHOT"
+		}
+}
