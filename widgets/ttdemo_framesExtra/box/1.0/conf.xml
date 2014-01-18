@@ -1,0 +1,15 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.FrameWidget</widgetClass>
+  <idWithinRootWidget></idWithinRootWidget>
+  <rows>1</rows>
+  <currentCell>NW</currentCell>
+  <suffix>png</suffix>
+  <cropX>0</cropX>
+  <cropY>0</cropY>
+  <cropWidth>8</cropWidth>
+  <cropHeight>12</cropHeight>
+  <coordinates>V71,66,30,30/239,66,30,30/268,66,30,30:V71,99,30,30/239,99,30,30/268,99,30,30:V71,119,30,30/239,119,30,30/268,119,30,30</coordinates>
+  <cell>
+    <index>row1</index>
+  </cell>
+</widget>

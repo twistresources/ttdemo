@@ -1,0 +1,16 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1390039364095</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.images.ACME2_services_img1 to ttdemo.imagesExtra.ACME2_services_img1</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.149</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1345162883338</timeChanged>
+  <status>approved</status>
+  <comment>Assumed approved prior to v8 migration.</comment>
+  <userCode></userCode>
+  <ipAddress></ipAddress>
+</statusHistory>
+</widgetStatus>

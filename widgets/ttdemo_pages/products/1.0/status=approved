@@ -1,0 +1,37 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1390048137303</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>192.168.43.154</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1390048132306</timeChanged>
+  <status>pending</status>
+  <comment>Tidy up</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.43.154</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1385086363006</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.149</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1339957518087</timeChanged>
+  <status>approved</status>
+  <comment>m</comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.1.5</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1339957410263</timeChanged>
+  <status>pending</status>
+  <comment>k</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.5</ipAddress>
+</statusHistory>
+</widgetStatus>

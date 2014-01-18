@@ -1,0 +1,58 @@
+<html>
+<head>
+<title></title>
+</head>
+<body>
+<!--START-->
+
+HELLO THERE EVERYONE.
+
+<div class="ui-accordion ui-widget ui-helper-reset ui-accordion-icons InstructionDetails" id="instructionDetails_acc">
+<div style="padding:10px;" class="rentBuyForm roundedGrayNoBg">
+<form class="searchAddress" id="rentBuyForm" method="post">
+	<input type="hidden" value="myrp_widgets.rentBuyLeadgen.rentbuy" name="op" id="op">
+	<input type="hidden" value="7" name="partnerId" id="partnerId">
+	<input type="hidden" value="" name="leadSource" id="leadSource">
+	<input type="hidden" value="Enter property, street, suburb or postcode" name="defaultValue" id="defaultValue">
+	<input type="hidden" value="" name="defaultValueSearched" id="defaultValueSearched">
+	<input type="hidden" value="10" name="maxSuggestionResults" id="maxSuggestionResults">
+	<table width="100%" cellspacing="0" cellpadding="0">
+		<tbody><tr>
+			<td align="left" class="rentBuyHeader" style="padding-bottom:5px;">
+					How much should you pay?</td>
+		</tr>
+		<tr><td class="grayBorder"></td></tr>
+		<tr>
+			<td align="left">
+				Find out how much a property is really worth
+            </td>
+		</tr>
+		<tr>
+			<td align="left">
+			<div class="field">
+						<input type="text" onblur="slasOnBlur(this);" onfocus="slasOnFocus(this);" placeholder="Enter property, street, suburb or postcode" onkeypress="return enterKeyCheck(event)" name="address" autocomplete="off" id="address" class="acInput">
+						<img style="display: none; position:absolute; left: 224px; top: 6px;" alt="Loading..."  id="searchIndicator">
+						<div class="submitButton">
+							<input type="button" onclick="validateSlas();" id="submitDetailsButton" name="submitDetailsButton" value="GO">
+						</div>
+			</div>
+			<table style="clear: both; display:none;" class="resultSuggestionContainer" id="resultSuggestionContainer">
+				<tbody><tr>
+					<td></td>
+				</tr>
+			</tbody></table>
+			<div class="errorMessage"><span class="suburb"></span></div></td>
+		</tr>
+		<tr>
+			<td align="right" style="padding-bottom:0px;">
+				<img alt="Rpdata logo" >
+			</td>
+		</tr>
+	</tbody></table>
+</form>
+</div>
+</div>
+
+<!--END-->
+</body>
+</html>

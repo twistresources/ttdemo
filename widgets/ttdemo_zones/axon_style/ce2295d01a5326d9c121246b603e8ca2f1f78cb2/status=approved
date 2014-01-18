@@ -1,0 +1,86 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1390050514929</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>192.168.43.154</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1390050510663</timeChanged>
+  <status>pending</status>
+  <comment>Set color of current menu item</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.43.154</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1390050164933</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.43.154</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1390047696212</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>192.168.43.154</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1390047690387</timeChanged>
+  <status>pending</status>
+  <comment>Tidy up</comment>
+  <userCode>adm</userCode>
+  <ipAddress>192.168.43.154</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1390044833195</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.149</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1390032234652</timeChanged>
+  <status>approved</status>
+  <comment>Moved from ttdemo.pages.axon_style to ttdemo.zones.axon_style</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.149</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1372248221059</timeChanged>
+  <status>approved</status>
+  <comment></comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.10.167</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1372247320772</timeChanged>
+  <status>pending</status>
+  <comment>Wrap urls with %%URL(...)%%</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.10.167</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1372247260858</timeChanged>
+  <status>edit</status>
+  <comment>Edit</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.10.167</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1339956717525</timeChanged>
+  <status>approved</status>
+  <comment>i</comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.1.5</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>0</timeChanged>
+  <status>pending</status>
+  <comment></comment>
+  <userCode></userCode>
+  <ipAddress></ipAddress>
+</statusHistory>
+</widgetStatus>

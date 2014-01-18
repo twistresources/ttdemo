@@ -1,0 +1,187 @@
+.acResults {
+    z-index: 98;
+    font-family: Arial,Helvetica,sans-serif;
+}
+.acResults ul {
+	list-style: none outside none;
+	margin: 0px;
+	padding: 0px;
+}
+.acResults li:first-child {
+    border-top: 1px solid #D4D4D4;
+}
+.acResults li {
+    background-color: #FFFFFF;
+    border-bottom: 1px solid #D4D4D4;
+    border-left: 1px solid #D4D4D4;
+    border-right: 1px solid #D4D4D4;
+    color: #000000;
+    cursor: pointer;
+    font-size: 14px;
+    padding: 6px 6px 6px 7px;
+    text-align: left;
+}
+.acResults .acSelect {
+    background-color: #F1F1F1;
+}
+
+.roundedGrayNoBg {
+    border: 1px solid #A7A9AC;
+    border-collapse: separate;
+    border-radius: 6px 6px 6px 6px;
+    display: block;
+}
+
+.InstructionDetails {
+	font-family: Arial,Helvetica,sans-serif;
+	font-size: 15px;
+	color: #000000 !important;
+	zbackground-color: #FFFFFF !important;
+
+	background-color: #FFeeee !important;
+	width: 316px;
+}
+
+.InstructionDetails .field {
+	position: relative;
+}
+
+.InstructionDetails .subText {
+	font-size: 12px;
+}
+
+.InstructionDetails .grayBorder {
+    border-top: 1px solid #A7A9AC;
+    margin: 5px 230px 0 307px;
+    padding: 4px 0;
+}
+
+.InstructionDetails td {
+	padding-bottom: 7px;
+    vertical-align: bottom;
+}
+
+.slasTable td {
+	/*padding-bottom: 0px;
+	padding-right: 5px;*/
+	padding: 0px;
+    vertical-align: bottom;
+}
+
+.InstructionDetails input[type="text"] {
+    color: #000 !important;
+    font-size: 11px !important;
+    height: 26px;
+    line-height: 30px;
+    width: 241px;
+    border: 1px solid #A7A9AC;
+    padding-left:3px;
+    padding-top:0px;
+    padding-bottom:0px;
+    margin-right: 6px;
+    float: left;
+}
+
+.InstructionDetails .button {
+	background: url("/myrp/images/ui/button.png") no-repeat scroll 0 0 transparent;
+	float: left;
+    height: 24px;
+    margin: 0 5px 0 0;
+}
+
+.InstructionDetails .plainRed {
+	background-position: 0 -62px;
+}
+
+.InstructionDetails .plainRed input, .InstructionDetails .plainRed a {
+    background-position: 100% -152px !important;
+    padding-left: 4px !important;
+    padding-right: 4px !important;
+}
+
+.InstructionDetails .button input, .InstructionDetails .button a {
+    background: url("/myrp/images/ui/button.png") no-repeat scroll 100% -92px transparent;
+    color: #FFFFFF;
+    float: left;
+    font-size: 12px;
+    letter-spacing: 1px;
+    line-height: 15px;
+    margin: 0 -5px 0 0;
+    padding: 4px 20px 5px 10px;
+}
+
+.InstructionDetails .button input {
+    border: medium none;
+    cursor: pointer;
+    font-family: Arial,Helvetica,sans-serif;
+    height: 24px;
+}
+
+.errorMessage {
+    color: #C1272D;
+    font-family: Helvetica,'Lucida Grande','Lucida Sans Unicode',Verdana,Arial,sans-serif;
+    font-size: 11px;
+    padding-top: 5px;
+}
+
+.ui-accordion-content {
+	background-color: #FEFED5 !important;
+}
+
+.InstructionDetails .emailExistsError {
+	float: right;
+	color: #C1272D;
+}
+
+.InstructionDetails .submitButton {
+	background-color: #5F698C !important;
+    border-radius: 6px 6px 6px 6px;
+	-webkit-border-radius: 6px 6px 6px 6px;
+	-moz-border-radius: 6px 6px 6px 6px;
+    height: 29px;
+    width: 37px;
+    float: right;
+    position: relative;
+}
+
+.InstructionDetails .submitButton input {
+    background: none repeat scroll 0 0 transparent;
+    border: medium none;
+    border-radius: 6px 6px 6px 6px;
+	-webkit-border-radius: 6px 6px 6px 6px;
+	-moz-border-radius: 6px 6px 6px 6px;
+    box-shadow: 1px 1px 1px #FFFFFF inset;
+    -webkit-box-shadow: 1px 1px 1px #FFFFFF inset;
+    -moz-box-shadow: 1px 1px 1px #FFFFFF inset;
+    color: #FFFFFF;	
+    font-family: Arial,sans-serif;
+    font-size: 14px;
+    letter-spacing: 1px;
+    height: 100%;
+    width: 100%;
+}
+
+.InstructionDetails .rentBuyHeader {
+	zzfont-size: 18px !important;
+	font-size: 13px !important;
+	color: #000 !important;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.rentBuyHeader i {
+	font-style: italic;
+}
+
+zzbody {
+	background-color: #FFFFFF;
+}
+
+.emailInput {
+	width: 250px !important;
+}
+
+.emailLabel {
+	font-size: 13px !important;
+	font-weight: bold !important;
+}
