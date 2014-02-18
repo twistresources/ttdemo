@@ -10,82 +10,99 @@
   <navpoint>
     <id>1</id>
     <newId>1</newId>
-    <type>page</type>
+    <type>group</type>
     <label>Home</label>
     <url></url>
     <useSSL>N</useSSL>
-    <pageWidget>ttdemo_pages.home_axon1</pageWidget>
-  </navpoint>
-  <navpoint>
-    <id>2</id>
-    <newId>2</newId>
-    <type>page</type>
-    <label>About Us</label>
-    <url></url>
-    <useSSL>N</useSSL>
-    <pageWidget>ttdemo_pages.about_us</pageWidget>
-  </navpoint>
-  <navpoint>
-    <id>5</id>
-    <newId>5</newId>
-    <type>page</type>
-    <label>Services</label>
-    <url></url>
-    <useSSL>N</useSSL>
-    <pageWidget>ttdemo_pages.services</pageWidget>
-  </navpoint>
-  <navpoint>
-    <id>3</id>
-    <newId>3</newId>
-    <type>page</type>
-    <label>Products</label>
-    <url></url>
-    <useSSL>N</useSSL>
-    <pageWidget>ttdemo_pages.products</pageWidget>
     <navpoint>
-      <id>6</id>
-      <newId>6</newId>
+      <id>10</id>
+      <newId>10</newId>
       <type>page</type>
-      <label>product1_Enterprise</label>
+      <label>Home</label>
       <url></url>
       <useSSL>N</useSSL>
-      <pageWidget>ttdemo_pages.product1_Enterprise</pageWidget>
+      <pageWidget>ttdemo.pages.ttdemo_p_homeResponsive</pageWidget>
     </navpoint>
     <navpoint>
-      <id>7</id>
-      <newId>7</newId>
+      <id>2</id>
+      <newId>2</newId>
       <type>page</type>
-      <label>product2_Security</label>
+      <label>About Us</label>
       <url></url>
       <useSSL>N</useSSL>
-      <pageWidget>ttdemo_pages.product2_Security</pageWidget>
+      <pageWidget>ttdemo.pages.ttdemo_p_aboutus0Responsive</pageWidget>
     </navpoint>
     <navpoint>
-      <id>8</id>
-      <newId>8</newId>
+      <id>5</id>
+      <newId>5</newId>
       <type>page</type>
-      <label>product3_Designer</label>
+      <label>Services</label>
       <url></url>
       <useSSL>N</useSSL>
-      <pageWidget>ttdemo_pages.product3_Designer</pageWidget>
+      <pageWidget>ttdemo.pages.ttdemo_p_servicesResponsive</pageWidget>
     </navpoint>
     <navpoint>
-      <id>9</id>
-      <newId>9</newId>
+      <id>3</id>
+      <newId>3</newId>
       <type>page</type>
-      <label>product4_GigaCore</label>
+      <label>Products</label>
       <url></url>
       <useSSL>N</useSSL>
-      <pageWidget>ttdemo_pages.product4_GigaCore</pageWidget>
+      <pageWidget>ttdemo.pages.ttdemo_p_productsResponsive</pageWidget>
+      <navpoint>
+        <id>6</id>
+        <newId>6</newId>
+        <type>page</type>
+        <label>product1_Enterprise</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>ttdemo_pages.product1_Enterprise</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>7</id>
+        <newId>7</newId>
+        <type>page</type>
+        <label>product2_Security</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>ttdemo_pages.product2_Security</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>8</id>
+        <newId>8</newId>
+        <type>page</type>
+        <label>product3_Designer</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>ttdemo_pages.product3_Designer</pageWidget>
+      </navpoint>
+      <navpoint>
+        <id>9</id>
+        <newId>9</newId>
+        <type>page</type>
+        <label>product4_GigaCore</label>
+        <url></url>
+        <useSSL>N</useSSL>
+        <pageWidget>ttdemo_pages.product4_GigaCore</pageWidget>
+      </navpoint>
     </navpoint>
-  </navpoint>
-  <navpoint>
-    <id>4</id>
-    <newId>4</newId>
-    <type>page</type>
-    <label>Contact Us</label>
-    <url></url>
-    <useSSL>N</useSSL>
-    <pageWidget>ttdemo_pages.contact_us</pageWidget>
+    <navpoint>
+      <id>4</id>
+      <newId>4</newId>
+      <type>page</type>
+      <label>Contact Us</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>ttdemo.pages.ttdemo_p_contactUsResponsive</pageWidget>
+    </navpoint>
+    <navpoint>
+      <id>11</id>
+      <newId>11</newId>
+      <type>page</type>
+      <label>New Navpoint</label>
+      <url></url>
+      <useSSL>N</useSSL>
+      <pageWidget>ttdemo.pages.charles_demo</pageWidget>
+    </navpoint>
   </navpoint>
 </navpoint>

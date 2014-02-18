@@ -2,5 +2,5 @@
         <includeProject>tooltwist</includeProject>
         <includeProject>ttStd</includeProject>
         <includeProject>ttWbd</includeProject>
-        <includeProject>ttdemo_t</includeProject>
+        <includeProject>bootstrap</includeProject>
 </project>

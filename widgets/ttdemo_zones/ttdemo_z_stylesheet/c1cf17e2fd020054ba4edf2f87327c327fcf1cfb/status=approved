@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1392714767616</timeChanged>
+  <status>approved</status>
+  <comment>updated style</comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.1.176</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1392714765003</timeChanged>
+  <status>pending</status>
+  <comment>updated style</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.176</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1392359908198</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from toolbox.stylesheet_template to ttdemo.zones.ttdemo_z_stylesheet</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.248</ipAddress>
+</statusHistory>
+</widgetStatus>

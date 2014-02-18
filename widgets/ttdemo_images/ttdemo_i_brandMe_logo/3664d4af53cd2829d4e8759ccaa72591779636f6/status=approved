@@ -1,0 +1,23 @@
+﻿<widgetStatus>
+<statusHistory>
+  <timeChanged>1392714685758</timeChanged>
+  <status>approved</status>
+  <comment>updated image</comment>
+  <userCode>null</userCode>
+  <ipAddress>10.0.1.176</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1392714682536</timeChanged>
+  <status>pending</status>
+  <comment>updated image</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.176</ipAddress>
+</statusHistory>
+<statusHistory>
+  <timeChanged>1392358372299</timeChanged>
+  <status>edit</status>
+  <comment>Cloned from ttdemo.images.ttdemo_i_home_icn to ttdemo.images.ttdemo_i_brandMe_logo</comment>
+  <userCode>adm</userCode>
+  <ipAddress>10.0.1.7</ipAddress>
+</statusHistory>
+</widgetStatus>

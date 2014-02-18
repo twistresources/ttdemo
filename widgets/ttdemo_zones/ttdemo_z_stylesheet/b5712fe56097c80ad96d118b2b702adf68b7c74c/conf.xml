@@ -1,0 +1,142 @@
+﻿<widget>
+  <widgetClass>tooltwist.wbd.StylesheetWidget</widgetClass>
+  <idWithinRootWidget>0</idWithinRootWidget>
+  <parentVersion>c1cf17e2fd020054ba4edf2f87327c327fcf1cfb</parentVersion>
+  <updateTime>1392715134736</updateTime>
+  <shortDesc>updated stylesheet</shortDesc>
+  <longDesc>updated stylesheet</longDesc>
+  <updatedBy>adm</updatedBy>
+  <ipAddress>10.0.1.176</ipAddress>
+  <content>/*
+ *  Stylesheet
+ */
+
+#an_element_id {
+}
+
+.a_style_class {
+}
+
+an_element_type {
+}
+
+body {
+ color:#4b4b4b !important;
+}
+
+.header {
+  background-color:#0e90d2 !important;
+  border-radius:0px !important;
+  width:100%;
+  height:100%;
+  float:left;
+  padding:10px;
+}
+
+.navbar-fixed-top{
+    background-color:#0e90d2 !important;
+    border:0px !important;
+}
+
+.navbar-fixed-top a{
+  font-weight:normal;
+  color:#ffffff !important;
+  font-size:25px;
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Arial !important;
+}
+
+.navbar-fixed-top .active a {
+    background-color:#2a80ab !important;
+}
+
+.header .block {
+}
+
+.header a{
+  color:#ffffff;
+  font-size:25px;
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Arial !important;
+}
+
+.header a:hover {
+  color:#ffffff;
+  text-decoration:none;
+}
+
+.header .row .col-md-3 {
+  text-align: center !important;
+}
+
+.bg-color {
+  background-color:#999999;
+}
+
+.header .navbar-default .navbar-toggle{
+  background-color:#0e90d2 !important;
+}
+
+.center-content {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.content {
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Arial !important;
+  font-weight: 300 !important;
+  font-size:14px
+}
+
+.content p {
+   text-align:justify !important;
+}
+
+.content h1 {
+  font-weight: 300 !important;
+  font-size:35px !important;
+}
+
+.content h3 {
+  font-weight: 300 !important;
+  font-size:20px !important;
+  padding:0px;
+  margin:0px;
+}
+  
+.force-height {
+  }
+  
+.force-height img {
+    width:100%;
+  }
+  
+.col-quote {
+  font-size:20px;
+  color:#ffffff;
+  font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Arial !important;
+  }
+
+.image-force {
+    margin-bottom:30px;
+  }
+  
+.image-force img {
+   width: 100% !important;
+}
+  
+.footer {
+    font-family: "HelveticaNeue-Light","Helvetica Neue Light","Helvetica Neue",Arial !important;
+  }
+ 
+.footer .col-md-6{
+      padding-top:30px;
+  padding-bottom:30px;
+      background-color:#efefef;
+  }
+  
+@media screen and (max-width:768px){
+     .footer .col-md-6 a {
+      font-size:10px !important;
+    }
+  }</content>
+  <description>A CSS style sheet that can be included in your pages.</description>
+</widget>
